@@ -1,0 +1,38 @@
+DRIVE ENLACE: https://drive.google.com/file/d/138UrwZZA2h_OecO_dzD5twy5FcrMVpJc/view?usp=sharing
+INSERTS:
+
+{
+    "nombre":"Sebastian",
+    "apellido":"Cabrera",
+    "telefono":"0988787152",
+    "direccion":"Hermano Miguel y Simon Bolivar",
+    "fecha_nacimiento":"2001-03-18",
+    "observacion":"responsable y respetuoso",
+    "dias_trabajados":20,
+    "sueldo":0.0
+
+}
+
+{
+    "nombre":"Manuel",
+    "apellido":"Sanchez",
+    "telefono":"0993756570",
+    "direccion":"Sector Cristo Rey",
+    "fecha_nacimiento":"1974-12-29",
+    "observacion":"colaboradora y honesta",
+    "dias_trabajados":10,
+    "sueldo":0.0
+
+}
+
+{
+    "nombre":"Jennifer",
+    "apellido":"Cabrera",
+    "telefono":"0991704783",
+    "direccion":"Av.Americas y Francisco Moscoso",
+    "fecha_nacimiento":"1994-03-18",
+    "observacion":"puntual y la mejor trabajadora",
+    "dias_trabajados":30,
+    "sueldo":0.0
+
+}
